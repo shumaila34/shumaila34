@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shumyla</h1>
 <h3 align="center">A passionate MERN STACK developer and ML enthusiast</h3>
-
-
 <p align="left"> <img src="https://images.playground.com/4e3f31f371fc4f4990d573cbd640720c.jpeg" alt="shumaila34" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shumaila34" alt="shumaila34" /></a> </p>
 
 - 🌱 I’m currently learning **MERN STACK**
 
