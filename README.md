@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shumyla</h1>
 <h3 align="center">A passionate MERN STACK developer and ML enthusiast</h3>
-<img  align=”red” alt=”coding” width=”400” src=”https://images.playground.com/95a9fc96aec64f86b05b63ab86dcc39d.jpeg”>
+<img  align=”red” alt=”coding” width=”400” src=”https://images.playground.com/4e3f31f371fc4f4990d573cbd640720c.jpeg”>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shumaila34&label=Profile%20views&color=0e75b6&style=flat" alt="shumaila34" /> </p>
+<p align="left"> <img src="https://images.playground.com/4e3f31f371fc4f4990d573cbd640720c.jpeg" alt="shumaila34" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shumaila34" alt="shumaila34" /></a> </p>
 
