@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shumyla</h1>
 <h3 align="center">A passionate MERN STACK developer and ML enthusiast</h3>
-<img  align=”red” alt=”coding” width=”400” src=”https://shumyla12.netlify.app/future%20developer.png”>
+<img  align=”red” alt=”coding” width=”400” src=”https://images.playground.com/95a9fc96aec64f86b05b63ab86dcc39d.jpeg”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shumaila34&label=Profile%20views&color=0e75b6&style=flat" alt="shumaila34" /> </p>
 
