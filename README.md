@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shumyla</h1>
 <h3 align="center">A passionate MERN STACK developer and ML enthusiast</h3>
-<img  align=”red” alt=”coding” width=”100” src=”https://images.playground.com/4e3f31f371fc4f4990d573cbd640720c.jpeg”>
+<img  align=”red” alt=”” width=”100” src=”https://images.playground.com/95a9fc96aec64f86b05b63ab86dcc39d.jpeg”>
 
 <p align="left"> <img src="https://images.playground.com/4e3f31f371fc4f4990d573cbd640720c.jpeg" alt="shumaila34" /> </p>
 
