@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Shumyla</h1>
-<h3 align="center">A passionate MERN STACK developer and ML enthusiast</h3>
+<h1 align="left">Hi 👋, I'm Shumyla</h1>
+<h3 align="left">A passionate MERN STACK developer and ML enthusiast</h3>
 
-- 🌱 I’m currently learning **MERN STACK**
+ 🌱 I’m currently learning **MERN STACK**
 
-- 📫 How to reach me **shumaila.1592@gmail.com**
+ 📫 How to reach me **shumaila.1592@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
