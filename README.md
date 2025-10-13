@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Shumyla</h1>
 <h3 align="left">A passionate MERN STACK developer and ML enthusiast</h3>
 
- 🌱 I’m currently learning **MERN STACK**
+ 🌱 I’m a  **.NET FULLStack .NET DEVELOPER **
 
  📫 How to reach me **shumaila.1592@gmail.com**
 
