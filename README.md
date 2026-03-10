@@ -12,7 +12,7 @@
 - 🤖 Currently honing my skills in **Artificial Intelligence & Machine Learning**
 - 🛠️ Building robust, scalable systems with a security-first mindset
 - 💡 Passionate about bridging the gap between traditional software engineering and intelligent systems
-- 📫 Reach me at **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="ff8c978a929e96939ed1cecac6cdbf98929e9693d19c9092">[email&#160;protected]</a>**
+- 📫 Reach me at **<a href="shumaila.1592@gmail.com" class="__cf_email__" data-cfemail="ff8c978a929e96939ed1cecac6cdbf98929e9693d19c9092">shumaila.1592@gmail.com</a>**
 
 
 
