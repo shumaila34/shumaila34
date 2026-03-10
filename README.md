@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=shumaila34&label=Profile%20views&color=0e75b6&style=flat" alt="shumaila34" />
 </p>
 
----
+
 
  👩‍💻 About Me
 
@@ -54,23 +54,13 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/>
 </p>
 
----
+
 
  📊 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shumaila34&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shumaila34" />
 </p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=shumaila34&show_icons=true&locale=en&theme=tokyonight" alt="shumaila34" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shumaila34&theme=tokyonight" alt="shumaila34" />
-</p>
-
----
 
 🤝 Connect with Me
 
@@ -83,8 +73,4 @@
   </a>
 </p>
 
----
 
-<p align="left">
-  <i>"Engineering intelligent systems, one commit at a time."</i>
-</p>
