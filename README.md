@@ -6,19 +6,17 @@
   <img src="https://komarev.com/ghpvc/?username=shumaila34&label=Profile%20views&color=0e75b6&style=flat" alt="shumaila34" />
 </p>
 
-
-
  👩‍💻 About Me
 
 - 🎓 **Software Engineer** specializing in **.NET Full Stack Development** & **DevSecOps**
 - 🤖 Currently honing my skills in **Artificial Intelligence & Machine Learning**
 - 🛠️ Building robust, scalable systems with a security-first mindset
 - 💡 Passionate about bridging the gap between traditional software engineering and intelligent systems
-- 📫 Reach me at **shumaila.1592@gmail.com**
+- 📫 Reach me at **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="ff8c978a929e96939ed1cecac6cdbf98929e9693d19c9092">[email&#160;protected]</a>**
 
----
 
-🚀 Tech Stack
+
+ 🚀 Tech Stack
 
  💼 Core Expertise
 <p align="left">
@@ -29,7 +27,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
 </p>
 
- 🌐 Frontend & Full Stack
+ 🌐 FullStack
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
@@ -40,30 +38,25 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
 </p>
 
-#### ⚙️ DevOps & Tools
+ ⚙️ DevOps & Tools
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 </p>
 
-#### 🤖 AI / ML (Currently Learning)
+ 🤖 AI / ML (Currently Learning)
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/>
 </p>
 
-
-🤝 Connect with Me
+ 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/shumaila-khan" target="blank">
+  <a href="https://www.linkedin.com/in/shumaila-khan-825680383" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shumaila khan" height="30" width="40" />
   </a>
-  <a href="mailto:shumaila.1592@gmail.com">
-    <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="30" width="40" />
-  </a>
-</p>
-
-
+  <a href="/cdn-cgi/l/email-protection#b5c6ddc0d8d4dcd9d49b84808c87f5d2d8d4dcd99bd6dad8">
+    <img align="center" src="https://www.vectorlogo.zone/
