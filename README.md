@@ -55,13 +55,6 @@
 </p>
 
 
-
- 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shumaila34&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shumaila34" />
-</p>
-
 🤝 Connect with Me
 
 <p align="left">
